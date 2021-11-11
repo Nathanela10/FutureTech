@@ -1,0 +1,6 @@
+Hola! Mi nombre es Jonathan Vera, tengo 27 años y vivo en la ciudad de Medellín. 
+Soy estudiante de medicina de la UdeA, a la vez tengo un trabajo de medio tiempo 
+como administrador del club deportivo Paixão, club dedicado al disco volador. 
+Me gusta mucho hacer deporte, tocar guitarra y departir con los amigos. 
+Mi acercamiento con la programación ha sido con este programa y en este momento 
+también hago un curso de desarrollo de aplicaciones Android con el CENDI.
