@@ -1,0 +1,23 @@
+{
+  "name": "futuretech",
+  "version": "1.0.0",
+  "description": "MILTON JULIÁN PULIDO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathanela10/FutureTech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathanela10/FutureTech/issues"
+  },
+  "homepage": "https://github.com/Nathanela10/FutureTech#readme",
+  "dependencies": {
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
